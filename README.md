@@ -1,5 +1,5 @@
 # Calendar of Year XXXX
-The calendar system used in this program is Gregorian Calendar, which was introduced in 1582 by Pope Gregory XIII to correct the drift in Julian Calendar System.
+The calendar system used in this program is based on Gregorian Calendar, which was introduced in 1582 by Pope Gregory XIII to correct the drift in Julian Calendar System.
 
 # Gregorian vs Julian Calendar System
 Gregorian Calendar System was used as the core logic concept of this program. But, why Gregorian and not Julian Calendar? While both are used in keeping track of time, these 2 have a slight difference with regard on how they consider a certain year as a leap year and their year length, as well. Firstly, according to Julian Calendar, a year is consists of 365.25 days, which means that a leap year occurs every 4 years. While, in Gregorian Calendar, year length is 365.2425 days, in which leap year takes place every 4 years as well. However, a century year (1600, 1700, 1800, etc.) is only considered a leap year if it is divisible by 400. Due to the discrepancies of Julian Calendar, which was first used before the prevalence of Gregorian Calendar, the year drifts ~11 minutes each year. In short, Gregorian Calendar System was eventually developed to refine the Julian Calendar's Rule.
